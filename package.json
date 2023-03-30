@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "kitsune-bem-structure.helloWorld",
-        "title": "Hello World"
+        "command": "kitsune-bem-structure.createBemStructure",
+        "title": "Create BEM structure"
       }
     ]
   },
